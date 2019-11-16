@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Title</title>
+    <title>Slides</title>
     <meta charset="utf-8">
     <style>
       @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
@@ -21,9 +21,11 @@
     <script src="https://remarkjs.com/downloads/remark-latest.min.js">
     </script>
     <script>
+      const queryParams = new URLSearchParams(location.search);
+      const sourceUrl = (queryParams.get('lesson') && `./${queryParams.get('lesson')}/README.md`) || "README.md"
 
       const slideshow = remark.create({
-        sourceUrl: './README.md',
+        sourceUrl,
       });
     </script>
   </body>

@@ -13,7 +13,7 @@ class: center, middle
 class: center, middle
 
 
-![](./git-urban-dictionary.png)
+![](./intro-to-git/git-urban-dictionary.png)
 
 ---
 
