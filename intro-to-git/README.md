@@ -82,13 +82,15 @@ Now GitHub in the picture
 
 * [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 * git in analogies
-    * [Like moving...](https://twitter.com/sophierose239/status/942962953036247045)
-    * [Git Staging Area: Explained Like I'm Five](https://dev.to/sublimegeek/git-staging-area-explained-like-im-five-1anh)
+    * [What is version control?](https://blog.red-badger.com/2016/11/29/gitgithub-in-plain-english)
+    * [Like a photo album](https://www.freecodecamp.org/news/git-the-laymans-guide-to-understanding-the-core-concepts/)
+    * ["Staging" is like packing to move](https://coderefinery.github.io/git-intro/04-staging-area/)
 
 ## Fun Stuff
 
 * Geek out on how it works, fascinating and clever!
     * [Git from the inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out)
+        * [About `.git`](https://www.daolf.com/posts/git-series-part-1/)
     * [Getting started - What is git?](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
     * [How does git work internally](https://medium.com/@shalithasuranga/how-does-git-work-internally-7c36dcb1f2cf)
 
